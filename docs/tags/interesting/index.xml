@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interesting on Blog - The Knight Labs</title>
+    <link>/tags/interesting/</link>
+    <description>Recent content in interesting on Blog - The Knight Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Aug 2019 19:15:34 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/interesting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the Genealogy of Morals</title>
+      <link>/blog/geneology-of-morals/</link>
+      <pubDate>Fri, 16 Aug 2019 19:15:34 +0000</pubDate>
+      
+      <guid>/blog/geneology-of-morals/</guid>
+      <description>So all respect to the good spirits that may govern in these historians of morality! But it&amp;rsquo;s certainly a pity that they lack the historical spirit itself, that they&amp;rsquo;ve been left in the lurch by all the good spirits of history!</description>
+    </item>
+    
+  </channel>
+</rss>
