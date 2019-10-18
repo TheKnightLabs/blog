@@ -6,8 +6,9 @@ variables:
 pages:
   script:
   - hugo
+  - mv docs public
   artifacts:
     paths:
-    - docs
+    - public
   only:
   - master
