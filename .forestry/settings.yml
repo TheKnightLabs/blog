@@ -22,8 +22,9 @@ sections:
 - type: heading
   label: Config
 - type: document
-  path: themes/tale-theme/data/Settings.toml
+  path: themes/mediumish-gohugo-theme/theme.toml
   label: Design Settings
+  read_only: true
 - type: document
   path: config.toml
   label: Site Config
