@@ -12,3 +12,18 @@ pages:
     - public
   only:
   - master
+
+deploy:
+  script:
+  - hugo
+  - git clone https://gitlab.com/theknightlabs/blog.git gh-pages
+  - mv docs gh-pages/docs
+  - cd gh-pages
+  - git add -A
+  - git commit -m Deploy [skip ci]
+  - git push https://gitlab-ci-token:${PERSONNAL_TOKEN}@gitlab.com/theknightlabs/blog.git
+  artifacts:
+    paths:
+    - docs
+  only:
+  - master
