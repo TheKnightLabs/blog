@@ -23,6 +23,6 @@ deploy:
   - git push https://gitlab-ci-token:${PERSONNAL_TOKEN}@gitlab.com/theknightlabs/blog.git
   artifacts:
     paths:
-    - docs
+    - gh-pages/docs
   only:
   - master
