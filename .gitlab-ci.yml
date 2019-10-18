@@ -1,8 +1,5 @@
 image: monachus/hugo
 
-variables:
-  GIT_SUBMODULE_STRATEGY: recursive
-
 pages:
   script:
   - hugo
@@ -20,7 +17,7 @@ deploy:
   - mv docs gh-pages/docs
   - cd gh-pages
   - git add -A
-  - git commit -m Deploy [skip ci]
+  - git commit -m "Deploy [skip ci]"
   - git push https://gitlab-ci-token:${PERSONNAL_TOKEN}@gitlab.com/theknightlabs/blog.git
   artifacts:
     paths:
