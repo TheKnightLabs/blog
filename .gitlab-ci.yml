@@ -14,6 +14,7 @@ deploy:
   script:
   - hugo
   - git clone https://gitlab.com/theknightlabs/blog.git gh-pages
+  - if [ -d gh-pages/docs ]; then rm -Rf gh-pages/docs; fi
   - mv docs gh-pages/docs
   - cd gh-pages
   - git add -A
