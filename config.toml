@@ -1,4 +1,21 @@
 baseURL = "/"
 languageCode = "en-us"
-theme = "tale-theme"
-title = "Brevifolia"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+title = "Blog - The Knight Labs"
+enableEmoji = true
+publishDir = "docs"
+## Main Menu
+[[menu.main]]
+    name = "Home"
+    identifier = "blog"
+    weight = 200
+    url = "/"
+[[menu.main]]
+    name = "Imprint"
+    identifier = "imprint"
+    weight = 200
+    url = "/static/imprint"
+[params]
+  logo = "../assets/img/logo-header.jpg"
+  description =""
