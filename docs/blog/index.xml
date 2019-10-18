@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Blog - The Knight Labs</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Blog - The Knight Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Aug 2019 19:15:34 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the Genealogy of Morals</title>
+      <link>/blog/geneology-of-morals/</link>
+      <pubDate>Fri, 16 Aug 2019 19:15:34 +0000</pubDate>
+      
+      <guid>/blog/geneology-of-morals/</guid>
+      <description>So all respect to the good spirits that may govern in these historians of morality! But it&amp;rsquo;s certainly a pity that they lack the historical spirit itself, that they&amp;rsquo;ve been left in the lurch by all the good spirits of history!</description>
+    </item>
+    
+    <item>
+      <title>Ne te quaesiveris extra.</title>
+      <link>/blog/self-reliance/</link>
+      <pubDate>Sat, 03 Aug 2019 07:00:00 +0000</pubDate>
+      
+      <guid>/blog/self-reliance/</guid>
+      <description>I read the other day some verses written by an eminent painter which were original and not conventional. The soul always hears an admonition in such lines, let the subject be what it may.</description>
+    </item>
+    
+    <item>
+      <title>Sunflower Sutra</title>
+      <link>/blog/sunflower-sutra/</link>
+      <pubDate>Tue, 16 Jul 2019 19:17:43 +0000</pubDate>
+      
+      <guid>/blog/sunflower-sutra/</guid>
+      <description>I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.</description>
+    </item>
+    
+    <item>
+      <title>An Essay on Walking</title>
+      <link>/blog/walking/</link>
+      <pubDate>Thu, 11 Jul 2019 20:11:17 +0000</pubDate>
+      
+      <guid>/blog/walking/</guid>
+      <description>Then it is that I appreciate the beauty and the glory of architecture, which itself never turns in, but forever stands out and erect, keeping watch over the slumberers.</description>
+    </item>
+    
+    <item>
+      <title>Song of Myself</title>
+      <link>/blog/song-of-myself/</link>
+      <pubDate>Thu, 11 Jul 2019 19:17:43 +0000</pubDate>
+      
+      <guid>/blog/song-of-myself/</guid>
+      <description>I have heard what the talkers were talking, the talk of the
+beginning and the end
+But I do not talk of the beginning or the end.</description>
+    </item>
+    
+  </channel>
+</rss>
