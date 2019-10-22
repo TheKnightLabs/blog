@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The Knight Labs. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 16 Aug 2019 19:15:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://www.theknightlabs.com/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What We Create</title>
+      <link>https://www.theknightlabs.com/blog/post/what-we-create/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.theknightlabs.com/blog/post/what-we-create/</guid>
+      <description>What We Create We offer a wide range of IT solutions ranging from Software development, Website Development, e-commerce online solution, ERP Management. Our core expertise is to develop cloud based custom apps using the latest technologies like Python - Django, Mean Stack, Larval, Ionic Framework etc.</description>
+    </item>
     
     <item>
       <title>On the Genealogy of Morals</title>
