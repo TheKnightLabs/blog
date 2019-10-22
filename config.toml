@@ -9,14 +9,29 @@ publishDir = "docs"
 ## Main Menu
 [[menu.main]]
     name = "Home"
+    identifier = "home"
+    weight = 1
+    url = "../"
+[[menu.main]]
+    name = "Feature"
+    identifier = "feature"
+    weight = 2
+    url = "../#feature"
+[[menu.main]]
+    name = "Services"
+    identifier = "services"
+    weight = 3
+    url = "../#services"
+[[menu.main]]
+    name = "Blog"
     identifier = "blog"
-    weight = 200
+    weight = 4
     url = "/"
 [[menu.main]]
-    name = "Imprint"
-    identifier = "imprint"
-    weight = 200
-    url = "/static/imprint"
+    name = "Contact"
+    identifier = "contact"
+    weight = 5
+    url = "../#contact"
 [params]
   logo = "../assets/img/logo-header.jpg"
   description =""

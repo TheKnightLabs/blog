@@ -48,3 +48,13 @@
 .mediumnavigation .navbar-brand img {
 	max-height: 56px;
 }
+.navbar-nav .nav-link{
+	font-family: "Titillium Web", sans-serif;
+	color: #585b60;
+	font-weight: 600;
+	font-size: 1rem;
+	text-transform: uppercase;
+}
+.navbar-nav .nav-item:hover .nav-link, .navbar-nav .nav-item.active .nav-link{
+	color: #f13835 !important;
+}
