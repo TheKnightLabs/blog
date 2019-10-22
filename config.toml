@@ -2,7 +2,8 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
-title = "Blog - The Knight Labs"
+title = "The Knight Labs"
+Copyright = "The Knight Labs. All rights reserved."
 enableEmoji = true
 publishDir = "docs"
 ## Main Menu
