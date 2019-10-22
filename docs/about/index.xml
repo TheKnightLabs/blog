@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on The Knight Labs</title>
-    <link>/about/</link>
+    <link>https://www.theknightlabs.com/blog/about/</link>
     <description>Recent content in Abouts on The Knight Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The Knight Labs. All rights reserved.</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 20:13:19 +0000</lastBuildDate>
     
-	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.theknightlabs.com/blog/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/info/</link>
+      <link>https://www.theknightlabs.com/blog/about/info/</link>
       <pubDate>Sat, 06 Jul 2019 20:13:19 +0000</pubDate>
       
-      <guid>/about/info/</guid>
+      <guid>https://www.theknightlabs.com/blog/about/info/</guid>
       <description> This is made with Forestry &amp;amp; Hugo. To get started, import this site into Forestry or checkout the repository here. </description>
     </item>
     
