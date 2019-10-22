@@ -26,7 +26,11 @@ fields:
   name: type
   label: type
   default: post
-  hidden: false
+  hidden: true
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 - type: file
   name: image
   label: Hero Image
