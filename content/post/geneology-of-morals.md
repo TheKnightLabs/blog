@@ -4,7 +4,7 @@ date: 2019-08-16T19:15:34+00:00
 publishdate: 2019-08-16T19:15:34+00:00
 tags: ["interesting"]
 comments: false
-type: blog
+type: post
 author: Friedrich Nietzsche
 image: "/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
 

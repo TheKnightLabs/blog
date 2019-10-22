@@ -1,8 +1,8 @@
 ---
 title: Sunflower Sutra
 date: 2019-07-16T19:17:43.000+00:00
-type: blog
-hero: "/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+type: post
+image: "/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 author: Allen Ginsberg
 
 ---

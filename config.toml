@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.theknightlabs.com/blog/"
 languageCode = "en-us"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
