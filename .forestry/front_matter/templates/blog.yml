@@ -30,3 +30,5 @@ fields:
 - type: file
   name: image
   label: Hero Image
+pages:
+- content/post/what-we-create.md
