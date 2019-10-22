@@ -3,10 +3,9 @@ author = "Vikas Gaurav"
 date = "2019-10-22T00:00:00+05:30"
 image = ""
 title = "What We Create"
+type = ""
 
 +++
-# **What We Create**
-
 We offer a wide range of IT solutions ranging from Software development, Website Development, e-commerce online solution, ERP Management. Our core expertise is to develop cloud based custom apps using the latest technologies like Python - Django, Mean Stack, Larval, Ionic Framework etc.
 
 ![](/images/web-1935737_1920.png)
