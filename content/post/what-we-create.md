@@ -1,7 +1,7 @@
 +++
 author = "Vikas Gaurav"
 date = "2019-10-22T00:00:00+05:30"
-image = ""
+image = "/images/web-1935737_1920.png"
 title = "What We Create"
 type = ""
 
